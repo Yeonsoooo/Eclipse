@@ -1,0 +1,13 @@
+*.imi
+.idea
+.metadata
+.classpath
+.project  
+.settings
+target  
+build
+.svn
+bin
+**/*.sw[op]
+**/.DS_Store
+*.log
